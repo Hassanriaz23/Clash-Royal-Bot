@@ -1,0 +1,7 @@
+Scrapy
+scrapy-user-agents
+discord.py
+openpyxl
+tabulate
+xlsxwriter
+python-dateutil
